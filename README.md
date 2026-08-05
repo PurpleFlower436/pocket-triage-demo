@@ -1,4 +1,4 @@
-# pt-frontend-public-mirror
+# pocket-triage-demo
 
 
 Here is the walkthrough of the box breathing exercise on Pocket Triage. 
